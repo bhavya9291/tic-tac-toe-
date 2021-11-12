@@ -1,5 +1,4 @@
-# tic-tac-toe-
-we developed a positional game using java 
+# tic-tac-toe
 import java.util.Scanner; 
 
 public class TICTACTOE2DARRAY { 
